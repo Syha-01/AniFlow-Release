@@ -1,6 +1,18 @@
-# AniFlow 
+# AniFlow-Release
+Hosted APK for AniFlow app.
 
-> **⚠️ Disclaimer:**
+## Download
+**[Download Latest APK](https://github.com/Syha-01/AniFlow-Release/releases/latest/download/AniFlow-V2.1.0.apk)**
+
+> **Note:** If the direct link doesn't work, verify the version number in the Releases tab.
+
+### How to Install
+1.  Download the `.apk` file from the link above.
+2.  Open the file on your Android device.
+3.  If prompted, allow installation from "Unknown Sources" in your settings.
+4.  Follow the on-screen instructions to install.
+
+## Disclaimer:**
 > **AniFlow does not host any anime content.** This application is strictly a user interface (client) that connects to third-party APIs. We do not store, distribute, or control any of the media files accessible through this app. All content is provided by external sources.
 >
 > If you wish to use this application, you must provide your own backend API or host your own instance of the [hianime-API](https://github.com/yahyaMomin/hianime-API.git).

@@ -2,7 +2,7 @@
 Hosted APK for AniFlow app.
 
 ## Download
-**[Download Latest APK](https://github.com/Syha-01/AniFlow-Release/releases/latest/download/AniFlow-v3.0.1.apk)**
+**[Download Latest APK](https://github.com/Syha-01/AniFlow-Release/releases/latest/download/AniFlow-3.0.1.apk)**
 
 ### How to Install
 1.  Download the `.apk` file from the link above.
